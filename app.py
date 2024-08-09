@@ -6,7 +6,7 @@ import json
 from collections import Counter
 
 # Load the data
-with open(r'Data Collection\malware_threat_data.json', 'r', encoding='utf-8') as f:
+with open(r'Data Collection/malware_threat_data.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Convert the data to a DataFrame
@@ -62,13 +62,13 @@ def explore_threat_actors_malware():
     st.title("Explore Threat Actors and Malware")
 
     # Load additional data
-    with open(r'Data Collection\threat_actors.json', 'r', encoding='utf-8') as f:
+    with open(r'Data Collection/threat_actors.json', 'r', encoding='utf-8') as f:
         threat_actor_data = json.load(f)
-    with open(r'Data Collection\threat_actor_data.json', 'r', encoding='utf-8') as f:
+    with open(r'Data Collection/threat_actor_data.json', 'r', encoding='utf-8') as f:
         threat_actor_details = json.load(f)
-    with open(r'Data Collection\malware_families.json', 'r', encoding='utf-8') as f:
+    with open(r'Data Collection/malware_families.json', 'r', encoding='utf-8') as f:
         malware_families_data = json.load(f)
-    with open(r'Data Collection\malware_family_data.json', 'r', encoding='utf-8') as f:
+    with open(r'Data Collection/malware_family_data.json', 'r', encoding='utf-8') as f:
         malware_family_details = json.load(f)
 
     # Convert lists to dictionaries for easier selection
