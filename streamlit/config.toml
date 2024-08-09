@@ -1,0 +1,31 @@
+[server]
+# Set the port to 8501
+port = 8501
+# Enable or disable headless mode
+headless = true
+# Set the base URL path for the app (useful if behind a proxy)
+# baseUrlPath = ""
+# Set the allowed origins for CORS
+# allowedOrigins = ["*"]
+# Enable CORS protection
+# enableCORS = true
+
+[browser]
+# Set the browser serverAddress
+serverAddress = "localhost"
+# Set the browser serverPort
+serverPort = 8501
+# Set the browser gatherUsageStats
+gatherUsageStats = false
+
+[theme]
+# Primary color of the app
+primaryColor = "#1a73e8"
+# Background color of the app
+backgroundColor = "#ffffff"
+# Secondary background color of the app
+secondaryBackgroundColor = "#f0f2f6"
+# Text color of the app
+textColor = "#262730"
+# Font to be used for the app
+# font = "sans serif"

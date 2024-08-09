@@ -1,0 +1,2866 @@
+[
+    {
+        "Threat Actor": "Lazarus Group",
+        "Aliases": "Operation DarkSeoul, Dark Seoul, Hidden Cobra, Hastati Group, Andariel, Unit 121, Bureau 121, NewRomanic Cyber Army Team, Bluenoroff, Subgroup: Bluenoroff, Group 77, Labyrinth Chollima, Operation Troy, Operation GhostSecret, Operation AppleJeus, APT38, APT 38, Stardust Chollima, Whois Hacking Team, Zinc, Appleworm, Nickel Academy, APT-C-26, NICKEL GLADSTONE, COVELLITE, ATK3, G0032, ATK117, G0082, Citrine Sleet, DEV-0139, DEV-1222, Diamond Sleet, ZINC, Sapphire Sleet, COPERNICIUM, TA404, Lazarus group, BeagleBoyz, Lazarus, Genie Spider"
+    },
+    {
+        "Threat Actor": "Cleaver",
+        "Aliases": "Operation Cleaver, Op Cleaver, Tarh Andishan, Alibaba, TG-2889, Cobalt Gypsy, G0003, Hazel Sandstorm, EUROPIUM, APT34, OilRig"
+    },
+    {
+        "Threat Actor": "APT1",
+        "Aliases": "COMMENT PANDA, PLA Unit 61398, Comment Crew, Byzantine Candor, Group 3, TG-8223, Comment Group, Brown Fox, GIF89a, ShadyRAT, G0006"
+    },
+    {
+        "Threat Actor": "Turla",
+        "Aliases": "Snake, VENOMOUS Bear, Group 88, Waterbug, WRAITH, Uroburos, Pfinet, TAG_0530, KRYPTON, Hippo Team, Pacifier APT, Popeye, SIG23, IRON HUNTER, MAKERSMARK, ATK13, G0010, ITG12, Blue Python, SUMMIT, UNC4210, Secret Blizzard, UAC-0144, UAC-0024, UAC-0003"
+    },
+    {
+        "Threat Actor": "APT28",
+        "Aliases": "Pawn Storm, FANCY BEAR, Sednit, SNAKEMACKEREL, Tsar Team, TG-4127, STRONTIUM, Swallowtail, IRON TWILIGHT, Group 74, SIG40, Grizzly Steppe, G0007, ATK5, Fighting Ursa, ITG05, Blue Athena, TA422, T-APT-12, APT-C-20, UAC-0028, FROZENLAKE, Sofacy, Forest Blizzard, BlueDelta, Fancy Bear, APT 28, TsarTeam, Group-4127, Grey-Cloud"
+    },
+    {
+        "Threat Actor": "UNC2452",
+        "Aliases": "DarkHalo, StellarParticle, NOBELIUM, Solar Phoenix, Midnight Blizzard, APT29, Cozy Bear"
+    },
+    {
+        "Threat Actor": "CHRYSENE",
+        "Aliases": "OilRig, Greenbug, Hazel Sandstorm, EUROPIUM, Cobalt Gypsy, APT34"
+    },
+    {
+        "Threat Actor": "APT41",
+        "Aliases": "G0096, TA415, Blackfly, Grayfly, LEAD, BARIUM, WICKED SPIDER, WICKED PANDA, BRONZE ATLAS, BRONZE EXPORT, Red Kelpie, G0044, Earth Baku, Amoeba, HOODOO, Brass Typhoon"
+    },
+    {
+        "Threat Actor": "OilRig",
+        "Aliases": "Twisted Kitten, Cobalt Gypsy, Crambus, Helix Kitten, APT 34, APT34, IRN2, ATK40, G0049, Evasive Serpens, Hazel Sandstorm, EUROPIUM, TA452"
+    },
+    {
+        "Threat Actor": "APT29",
+        "Aliases": "Group 100, COZY BEAR, The Dukes, Minidionis, SeaDuke, YTTRIUM, IRON HEMLOCK, Grizzly Steppe, G0016, ATK7, Cloaked Ursa, TA421, Blue Kitsune, ITG11, BlueBravo, Nobelium, UAC-0029, Midnight Blizzard"
+    },
+    {
+        "Threat Actor": "APT40",
+        "Aliases": "TEMP.Periscope, TEMP.Jumper, Leviathan, BRONZE MOHAWK, GADOLINIUM, KRYPTONITE PANDA, G0065, ATK29, TA423, Red Ladon, ITG09, MUDCARP, ISLANDDREAMS, Gingham Typhoon"
+    },
+    {
+        "Threat Actor": "Silent Chollima",
+        "Aliases": "OperationTroy, Guardian of Peace, GOP, WHOis Team, Andariel, Subgroup: Andariel, Onyx Sleet, PLUTONIUM"
+    },
+    {
+        "Threat Actor": "APT32",
+        "Aliases": "OceanLotus Group, Ocean Lotus, OceanLotus, Cobalt Kitty, APT-C-00, SeaLotus, Sea Lotus, APT-32, APT 32, Ocean Buffalo, POND LOACH, TIN WOODLAWN, BISMUTH, ATK17, G0050, Canvas Cyclone"
+    },
+    {
+        "Threat Actor": "Kimsuky",
+        "Aliases": "Velvet Chollima, Black Banshee, Thallium, Operation Stolen Pencil, G0086, APT43, Emerald Sleet, THALLIUM, Springtail"
+    },
+    {
+        "Threat Actor": "Sandworm",
+        "Aliases": "Quedagh, VOODOO BEAR, TEMP.Noble, IRON VIKING, G0034, ELECTRUM, TeleBots, IRIDIUM, Blue Echidna, FROZENBARENTS, UAC-0113, Seashell Blizzard, UAC-0082, APT44"
+    },
+    {
+        "Threat Actor": "APT37",
+        "Aliases": "APT 37, Group 123, Group123, InkySquid, Operation Daybreak, Operation Erebus, Reaper Group, Reaper, Red Eyes, Ricochet Chollima, ScarCruft, Venus 121, ATK4, G0067, Moldy Pisces"
+    },
+    {
+        "Threat Actor": "FIN11",
+        "Aliases": "TEMP.Warlock, UNC902, Lace Tempest, DEV-0950, TA505"
+    },
+    {
+        "Threat Actor": "Operation C-Major",
+        "Aliases": "C-Major, Transparent Tribe, Mythic Leopard, ProjectM, APT36, APT 36, TMP.Lapis, Green Havildar, COPPER FIELDSTONE, Earth Karkaddan"
+    },
+    {
+        "Threat Actor": "TA505",
+        "Aliases": "SectorJ04, SectorJ04 Group, GRACEFUL SPIDER, GOLD TAHOE, Dudear, G0092, ATK103, Hive0065, CHIMBORAZO, Spandex Tempest, Lace Tempest, DEV-0950, FIN11"
+    },
+    {
+        "Threat Actor": "APT15",
+        "Aliases": "VIXEN PANDA, Ke3Chang, Playful Dragon, Metushy, Lurid, Social Network Team, Royal APT, BRONZE PALACE, BRONZE DAVENPORT, BRONZE IDLEWOOD, NICKEL, G0004, Red Vulture, Nylon Typhoon, Mirage"
+    },
+    {
+        "Threat Actor": "APT33",
+        "Aliases": "APT 33, Elfin, MAGNALLIUM, Refined Kitten, HOLMIUM, COBALT TRINITY, G0064, ATK35, Peach Sandstorm, TA451"
+    },
+    {
+        "Threat Actor": "Equation Group",
+        "Aliases": "Tilded Team, EQGRP, G0020"
+    },
+    {
+        "Threat Actor": "APT35",
+        "Aliases": "Newscaster Team, Magic Hound, G0059, Phosphorus, Mint Sandstorm, TunnelVision, COBALT MIRAGE, Charming Kitten"
+    },
+    {
+        "Threat Actor": "BlackTech",
+        "Aliases": "CIRCUIT PANDA, Temp.Overboard, HUAPI, Palmerworm, G0098, T-APT-03, Manga Taurus, Red Djinn, Earth Hundun"
+    },
+    {
+        "Threat Actor": "IRIDIUM",
+        "Aliases": "Seashell Blizzard, Sandworm"
+    },
+    {
+        "Threat Actor": "Molerats",
+        "Aliases": "Gaza Hackers Team, Gaza cybergang, Gaza Cybergang, Operation Molerats, Extreme Jackal, Moonlight, ALUMINUM SARATOGA, G0021, BLACKSTEM"
+    },
+    {
+        "Threat Actor": "MuddyWater",
+        "Aliases": "TEMP.Zagros, Static Kitten, Seedworm, MERCURY, COBALT ULSTER, G0069, ATK51, Boggy Serpens, Mango Sandstorm, TA450, Earth Vetala"
+    },
+    {
+        "Threat Actor": "APT27",
+        "Aliases": "GreedyTaotie, TG-3390, EMISSARY PANDA, TEMP.Hippo, Red Phoenix, Budworm, Group 35, ZipToken, Iron Tiger, BRONZE UNION, Lucky Mouse, G0027, Iron Taurus, Earth Smilodon"
+    },
+    {
+        "Threat Actor": "AridViper",
+        "Aliases": "Desert Falcon, Renegade Jackal, DESERTVARNISH, UNC718, Arid Viper, APT-C-23"
+    },
+    {
+        "Threat Actor": "Charming Kitten",
+        "Aliases": "Newscaster, Parastoo, iKittens, Group 83, NewsBeef, G0058, CharmingCypress, Mint Sandstorm, PHOSPHORUS, APT35"
+    },
+    {
+        "Threat Actor": "APT31",
+        "Aliases": "ZIRCONIUM, JUDGMENT PANDA, BRONZE VINEWOOD, Red keres, Violet Typhoon, TA412, Zirconium"
+    },
+    {
+        "Threat Actor": "DarkHotel",
+        "Aliases": "DUBNIUM, Fallout Team, Karba, Luder, Nemim, Nemin, Tapaoux, Pioneer, Shadow Crane, APT-C-06, SIG25, TUNGSTEN BRIDGE, T-APT-02, G0012, ATK52, Zigzag Hail, Dark Hotel"
+    },
+    {
+        "Threat Actor": "GALLIUM",
+        "Aliases": "Red Dev 4, Alloy Taurus, Granite Typhoon, Operation Soft Cell"
+    },
+    {
+        "Threat Actor": "Operation Soft Cell",
+        "Aliases": "GALLIUM"
+    },
+    {
+        "Threat Actor": "APT3",
+        "Aliases": "GOTHIC PANDA, TG-0110, Group 6, UPS, Buckeye, Boyusec, BORON, BRONZE MAYFAIR, Red Sylvan"
+    },
+    {
+        "Threat Actor": "FIN6",
+        "Aliases": "SKELETON SPIDER, ITG08, MageCart Group 6, White Giant, GOLD FRANKLIN, ATK88, G0037, Camouflage Tempest, TAAL"
+    },
+    {
+        "Threat Actor": "FIN7",
+        "Aliases": "CARBON SPIDER, GOLD NIAGARA, Calcium, ATK32, G0046, G0008, Coreid, Carbanak, Sangria Tempest, ELBRUS, Carbon Spider"
+    },
+    {
+        "Threat Actor": "Gamaredon Group",
+        "Aliases": "ACTINIUM, DEV-0157, Blue Otso, BlueAlpha, G0047, IRON TILDEN, PRIMITIVE BEAR, Shuckworm, Trident Ursa, UAC-0010, Winterflounder, Aqua Blizzard, Actinium, UNC530, Gamaredon"
+    },
+    {
+        "Threat Actor": "Rocket Kitten",
+        "Aliases": "TEMP.Beanie, Operation Woolen Goldfish, Operation Woolen-Goldfish, Thamar Reservoir, Timberworm"
+    },
+    {
+        "Threat Actor": "Tick",
+        "Aliases": "Nian, BRONZE BUTLER, REDBALDKNIGHT, STALKER PANDA, G0060, Stalker Taurus, PLA Unit 61419"
+    },
+    {
+        "Threat Actor": "APT17",
+        "Aliases": "Group 8, AURORA PANDA, Hidden Lynx, Tailgater Team, Dogfish, BRONZE KEYSTONE, G0025, Group 72, G0001, Axiom, HELIUM"
+    },
+    {
+        "Threat Actor": "Cobalt",
+        "Aliases": "Cobalt Group, Cobalt Gang, GOLD KINGSWOOD, COBALT SPIDER, G0080, Mule Libra"
+    },
+    {
+        "Threat Actor": "DragonOK",
+        "Aliases": "Moafee, BRONZE OVERBROOK, G0017, G0002, Shallow Taurus"
+    },
+    {
+        "Threat Actor": "Earth Lusca",
+        "Aliases": "CHROMIUM, ControlX, TAG-22, FISHMONGER, BRONZE UNIVERSITY, AQUATIC PANDA, Red Dev 10, RedHotel, Charcoal Typhoon, BountyGlad, Red Scylla"
+    },
+    {
+        "Threat Actor": "Hellsing",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Naikon",
+        "Aliases": "PLA Unit 78020, OVERRIDE PANDA, Camerashy, BRONZE GENEVA, G0019, Naikon, BRONZE STERLING, G0013"
+    },
+    {
+        "Threat Actor": "The Gorgon Group",
+        "Aliases": "Gorgon Group, Subaat, ATK92, G0078, Pasty Gemini"
+    },
+    {
+        "Threat Actor": "Tonto Team",
+        "Aliases": "CactusPete, KARMA PANDA, BRONZE HUNTLEY, COPPER, Red Beifang, G0131, PLA Unit 65017, Earth Akhlut, TAG-74"
+    },
+    {
+        "Threat Actor": "QUILTED TIGER",
+        "Aliases": "Chinastrats, Patchwork, Monsoon, Sarit, Dropping Elephant, APT-C-09, ZINC EMERSON, ATK11, G0040, Orange Athos, Thirsty Gemini"
+    },
+    {
+        "Threat Actor": "TA428",
+        "Aliases": "Colourful Panda, BRONZE DUDLEY"
+    },
+    {
+        "Threat Actor": "VICEROY TIGER",
+        "Aliases": "OPERATION HANGOVER, Donot Team, APT-C-35, SectorE02, Orange Kala"
+    },
+    {
+        "Threat Actor": "GOLD CABIN",
+        "Aliases": "Shakthak, TA551, ATK236, G0127, Monster Libra"
+    },
+    {
+        "Threat Actor": "HenBox",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "POLONIUM",
+        "Aliases": "Plaid Rain, UNC4453, GREATRIFT"
+    },
+    {
+        "Threat Actor": "UNC1878",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "APT12",
+        "Aliases": "NUMBERED PANDA, TG-2754, BeeBus, Group 22, DynCalc, Calc Team, DNSCalc, Crimson Iron, IXESHE, BRONZE GLOBE"
+    },
+    {
+        "Threat Actor": "APT39",
+        "Aliases": "Chafer, REMIX KITTEN, COBALT HICKMAN, G0087, Radio Serpens, TA454"
+    },
+    {
+        "Threat Actor": "Evilnum",
+        "Aliases": "DeathStalker, TA4563, EvilNum, Jointworm, KNOCKOUT SPIDER"
+    },
+    {
+        "Threat Actor": "Longhorn",
+        "Aliases": "Lamberts, the Lamberts, APT-C-39, PLATINUM TERMINAL"
+    },
+    {
+        "Threat Actor": "Lucky Cat",
+        "Aliases": "TA413, White Dev 9"
+    },
+    {
+        "Threat Actor": "Thrip",
+        "Aliases": "G0076, ATK78"
+    },
+    {
+        "Threat Actor": "VENOM SPIDER",
+        "Aliases": "badbullzvenom, badbullz"
+    },
+    {
+        "Threat Actor": "WIZARD SPIDER",
+        "Aliases": "TEMP.MixMaster, GOLD BLACKBURN, FIN12, Periwinkle Tempest, DEV-0193, Storm-0193, Trickbot LLC, UNC2053, Pistachio Tempest, DEV-0237"
+    },
+    {
+        "Threat Actor": "DarkHydrus",
+        "Aliases": "LazyMeerkat, G0079, Obscure Serpens"
+    },
+    {
+        "Threat Actor": "El Machete",
+        "Aliases": "Machete, machete-apt, APT-C-43, G0095"
+    },
+    {
+        "Threat Actor": "HAZY TIGER",
+        "Aliases": "Bitter, T-APT-17, APT-C-08, Orange Yali"
+    },
+    {
+        "Threat Actor": "LYCEUM",
+        "Aliases": "COBALT LYCEUM, HEXANE, UNC1530, Spirlin, MYSTICDOME, siamesekitten, Chrono Kitten, Storm-0133"
+    },
+    {
+        "Threat Actor": "MUSTANG PANDA",
+        "Aliases": "BRONZE PRESIDENT, HoneyMyte, Red Lich, TEMP.HEX, BASIN, Earth Preta, TA416, Stately Taurus, LuminousMoth, Polaris, TANTALUM, Twill Typhoon"
+    },
+    {
+        "Threat Actor": "PLATINUM",
+        "Aliases": "TwoForOne, G0068, ATK33"
+    },
+    {
+        "Threat Actor": "RANCOR",
+        "Aliases": "Rancor group, Rancor, Rancor Group, G0075, Rancor Taurus"
+    },
+    {
+        "Threat Actor": "RAZOR TIGER",
+        "Aliases": "SideWinder, Rattlesnake, APT-C-17, T-APT-04"
+    },
+    {
+        "Threat Actor": "Red Menshen",
+        "Aliases": "Red Dev 18"
+    },
+    {
+        "Threat Actor": "SNOWGLOBE",
+        "Aliases": "Animal Farm, Snowglobe, ATK8"
+    },
+    {
+        "Threat Actor": "SWEED",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Tortoiseshell",
+        "Aliases": "IMPERIAL KITTEN, Yellow Liderc, Imperial Kitten, TA456, DUSTYCAVE, Crimson Sandstorm"
+    },
+    {
+        "Threat Actor": "[Unnamed group]",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "APT-C-36",
+        "Aliases": "Blind Eagle"
+    },
+    {
+        "Threat Actor": "APT18",
+        "Aliases": "DYNAMITE PANDA, TG-0416, SCANDIUM, PLA Navy, Wekby, G0026"
+    },
+    {
+        "Threat Actor": "APT19",
+        "Aliases": "DEEP PANDA, Codoso, WebMasters, KungFu Kittens, Black Vine, TEMP.Avengers, Group 13, PinkPanther, Shell Crew, BRONZE FIRESTONE, G0009, G0073, Pupa, Sunshop Group"
+    },
+    {
+        "Threat Actor": "APT21",
+        "Aliases": "HAMMER PANDA, TEMP.Zhenbao, NetTraveler"
+    },
+    {
+        "Threat Actor": "Dark Caracal",
+        "Aliases": "G0070"
+    },
+    {
+        "Threat Actor": "DNSpionage",
+        "Aliases": "COBALT EDGEWATER"
+    },
+    {
+        "Threat Actor": "DOPPEL SPIDER",
+        "Aliases": "GOLD HERON"
+    },
+    {
+        "Threat Actor": "Earth Berberoka",
+        "Aliases": "GamblingPuppet"
+    },
+    {
+        "Threat Actor": "Evil Corp",
+        "Aliases": "GOLD DRAKE"
+    },
+    {
+        "Threat Actor": "FIN8",
+        "Aliases": "ATK113, G0061"
+    },
+    {
+        "Threat Actor": "GOLD DUPONT",
+        "Aliases": "SPRITE SPIDER"
+    },
+    {
+        "Threat Actor": "Greenbug",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GreyEnergy",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Inception Framework",
+        "Aliases": "Clean Ursa, Cloud Atlas, OXYGEN, G0100, ATK116, Blue Odin"
+    },
+    {
+        "Threat Actor": "INDRIK SPIDER",
+        "Aliases": "Manatee Tempest, DEV-0243, EvilCorp, UNC2165"
+    },
+    {
+        "Threat Actor": "MirrorFace",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "MUMMY SPIDER",
+        "Aliases": "TA542, GOLD CRESTWOOD"
+    },
+    {
+        "Threat Actor": "POISON CARP",
+        "Aliases": "Evil Eye, Red Dev 16, Earth Empusa"
+    },
+    {
+        "Threat Actor": "Rocke",
+        "Aliases": "Aged Libra"
+    },
+    {
+        "Threat Actor": "Scarlet Mimic",
+        "Aliases": "G0029, Golfing Taurus"
+    },
+    {
+        "Threat Actor": "SideCopy",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Silence group",
+        "Aliases": "Silence, WHISPER SPIDER"
+    },
+    {
+        "Threat Actor": "Sowbug",
+        "Aliases": "G0054"
+    },
+    {
+        "Threat Actor": "TA410",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA578",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Volt Typhoon",
+        "Aliases": "BRONZE SILHOUETTE, VANGUARD PANDA, UNC3236, Insidious Taurus, VOLTZITE, Dev-0391, Storm-0391"
+    },
+    {
+        "Threat Actor": "Yanbian Gang",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "1937CN",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Antlion",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "APT-C-12",
+        "Aliases": "Sapphire Mushroom, Blue Mushroom, NuclearCrisis"
+    },
+    {
+        "Threat Actor": "APT-C-27",
+        "Aliases": "GoldMouse, Golden RAT, ATK80"
+    },
+    {
+        "Threat Actor": "APT-C-34",
+        "Aliases": "Golden Falcon"
+    },
+    {
+        "Threat Actor": "APT-C-60",
+        "Aliases": "APT-Q-12"
+    },
+    {
+        "Threat Actor": "APT23",
+        "Aliases": "PIRATE PANDA, KeyBoy, Tropic Trooper, BRONZE HOBART, G0081, Red Orthrus, Earth Centaur"
+    },
+    {
+        "Threat Actor": "APT5",
+        "Aliases": "KEYHOLE PANDA, MANGANESE, BRONZE FLEETWOOD, TEMP.Bottle, Mulberry Typhoon, Poisoned Flight, TABCTENG"
+    },
+    {
+        "Threat Actor": "APT9",
+        "Aliases": "NIGHTSHADE PANDA, Red Pegasus, Group 27"
+    },
+    {
+        "Threat Actor": "Bahamut",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Blackwood",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BuhTrap",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CopyKittens",
+        "Aliases": "Slayer Kitten, G0052"
+    },
+    {
+        "Threat Actor": "DAGGER PANDA",
+        "Aliases": "IceFog, Trident, RedFoxtrot, Red Wendigo, PLA Unit 69010"
+    },
+    {
+        "Threat Actor": "Danti",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Domestic Kitten",
+        "Aliases": "Bouncing Golf, APT-C-50"
+    },
+    {
+        "Threat Actor": "Dust Storm",
+        "Aliases": "G0031"
+    },
+    {
+        "Threat Actor": "Earth Estries",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "EXOTIC LILY",
+        "Aliases": "DEV-0413"
+    },
+    {
+        "Threat Actor": "Gelsemium",
+        "Aliases": "\u72fc\u6bd2\u8349"
+    },
+    {
+        "Threat Actor": "Ghostwriter",
+        "Aliases": "UNC1151, TA445, PUSHCHA, Storm-0257, DEV-0257"
+    },
+    {
+        "Threat Actor": "GOLD PRELUDE",
+        "Aliases": "TA569, UNC1543"
+    },
+    {
+        "Threat Actor": "GOLD WINTER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GRIM SPIDER",
+        "Aliases": "GOLD ULRICK"
+    },
+    {
+        "Threat Actor": "Groundbait",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Hacking Team",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "HAFNIUM",
+        "Aliases": "ATK233, G0125, Operation Exchange Marauder, Red Dev 13, Silk Typhoon"
+    },
+    {
+        "Threat Actor": "Higaisa",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Infy",
+        "Aliases": "Operation Mermaid, Prince of Persia, Foudre"
+    },
+    {
+        "Threat Actor": "Iron Group",
+        "Aliases": "Iron Cyber Group"
+    },
+    {
+        "Threat Actor": "LightBasin",
+        "Aliases": "UNC1945, CL-CRI-0025"
+    },
+    {
+        "Threat Actor": "LOTUS PANDA",
+        "Aliases": "Spring Dragon, ST Group, DRAGONFISH, BRONZE ELGIN, ATK1, G0030, Red Salamander, Lotus BLossom"
+    },
+    {
+        "Threat Actor": "MageCart",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Mofang",
+        "Aliases": "Superman, BRONZE WALKER"
+    },
+    {
+        "Threat Actor": "MONTY SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "MosesStaff",
+        "Aliases": "Moses Staff, Marigold Sandstorm, DEV-0500"
+    },
+    {
+        "Threat Actor": "MoustachedBouncer",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "NARWHAL SPIDER",
+        "Aliases": "GOLD ESSEX, TA544"
+    },
+    {
+        "Threat Actor": "Nazar",
+        "Aliases": "SIG37"
+    },
+    {
+        "Threat Actor": "Nexus Zeta",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "NoName057(16)",
+        "Aliases": "NoName057, NoName05716, 05716nnm, Nnm05716"
+    },
+    {
+        "Threat Actor": "Operation ShadowHammer",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Sharpshooter",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Orangeworm",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Pacha Group",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Packrat",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Poseidon Group",
+        "Aliases": "G0033"
+    },
+    {
+        "Threat Actor": "PowerPool",
+        "Aliases": "IAmTheKing"
+    },
+    {
+        "Threat Actor": "ProjectSauron",
+        "Aliases": "Strider, Sauron, Project Sauron, G0041"
+    },
+    {
+        "Threat Actor": "PROMETHIUM",
+        "Aliases": "StrongPity, G0056"
+    },
+    {
+        "Threat Actor": "Rebel Jackal",
+        "Aliases": "FallagaTeam"
+    },
+    {
+        "Threat Actor": "RIDDLE SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SaintBear",
+        "Aliases": "UNC2589, TA471, UAC-0056, Nascent Ursa, Nodaria, FROZENVISTA, Storm-0587, DEV-0587, Saint Bear, Lorec53"
+    },
+    {
+        "Threat Actor": "SCULLY SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Sea Turtle",
+        "Aliases": "COSMIC WOLF, Marbled Dust, SILICON, Teal Kurma, UNC1326"
+    },
+    {
+        "Threat Actor": "SLIME29",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SMOKY SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SOLAR SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1113",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA2101",
+        "Aliases": "Maze Team, TWISTED SPIDER, GOLD VILLAGE, Storm-0216, DEV-0216, Twisted Spider"
+    },
+    {
+        "Threat Actor": "TA579",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TeamXRat",
+        "Aliases": "CorporacaoXRat, CorporationXRat"
+    },
+    {
+        "Threat Actor": "TianWu",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UAC-0050",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Unit 8200",
+        "Aliases": "Duqu Group"
+    },
+    {
+        "Threat Actor": "WET PANDA",
+        "Aliases": "Red Chimera"
+    },
+    {
+        "Threat Actor": "WildNeutron",
+        "Aliases": "Butterfly, Morpho, Sphinx Moth"
+    },
+    {
+        "Threat Actor": "WindShift",
+        "Aliases": "Windy Phoenix"
+    },
+    {
+        "Threat Actor": "Winter Vivern",
+        "Aliases": "UAC-0114, TA473, TAG-70, TA-473"
+    },
+    {
+        "Threat Actor": "Xcatze",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Adrastea",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "AeroBlade",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ALLANITE",
+        "Aliases": "Palmetto Fusion, Allanite"
+    },
+    {
+        "Threat Actor": "Alpha Spider",
+        "Aliases": "ALPHV Ransomware Group"
+    },
+    {
+        "Threat Actor": "Altahrea Team",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ALTDOS",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ANDROMEDA SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Anonymous Sudan",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ANTHROPOID SPIDER",
+        "Aliases": "Empire Monkey, CobaltGoblin"
+    },
+    {
+        "Threat Actor": "Aoqin Dragon",
+        "Aliases": "UNC94"
+    },
+    {
+        "Threat Actor": "AppMilad",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "APT.3102",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "APT10",
+        "Aliases": "STONE PANDA, Menupass Team, happyyongzi, POTASSIUM, Red Apollo, CVNX, HOGFISH, Cloud Hopper, BRONZE RIVERSIDE, ATK41, G0045, Granite Taurus, TA429"
+    },
+    {
+        "Threat Actor": "APT14",
+        "Aliases": "ANCHOR PANDA, QAZTeam, ALUMINUM"
+    },
+    {
+        "Threat Actor": "APT16",
+        "Aliases": "SVCMONDR, G0023"
+    },
+    {
+        "Threat Actor": "APT2",
+        "Aliases": "PLA Unit 61486, PUTTER PANDA, MSUpdater, 4HCrew, SULPHUR, SearchFire, TG-6952, G0024"
+    },
+    {
+        "Threat Actor": "APT20",
+        "Aliases": "VIOLIN PANDA, TH3Bug, Crawling Taurus"
+    },
+    {
+        "Threat Actor": "APT22",
+        "Aliases": "G0039, Suckfly, BRONZE OLIVE, Group 46"
+    },
+    {
+        "Threat Actor": "APT24",
+        "Aliases": "PITTY PANDA, G0011, Temp.Pittytiger"
+    },
+    {
+        "Threat Actor": "APT26",
+        "Aliases": "JerseyMikes, TURBINE PANDA, BRONZE EXPRESS, TECHNETIUM"
+    },
+    {
+        "Threat Actor": "APT30",
+        "Aliases": "G0013, Raspberry Typhoon, RADIUM, LotusBlossom"
+    },
+    {
+        "Threat Actor": "APT4",
+        "Aliases": "PLA Navy, MAVERICK PANDA, BRONZE EDISON, SODIUM, Salmon Typhoon"
+    },
+    {
+        "Threat Actor": "APT42",
+        "Aliases": "UNC788, CALANQUE"
+    },
+    {
+        "Threat Actor": "APT43",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "APT45",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "APT6",
+        "Aliases": "1.php Group"
+    },
+    {
+        "Threat Actor": "ArcaneDoor",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Aslan Neferler Tim",
+        "Aliases": "Lion Soldiers Team, Phantom Turk"
+    },
+    {
+        "Threat Actor": "AtlasCross",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Attor",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Avivore",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Ayy\u0131ld\u0131z Tim",
+        "Aliases": "Crescent and Star"
+    },
+    {
+        "Threat Actor": "BackdoorDiplomacy",
+        "Aliases": "BackDip, CloudComputating, Quarian"
+    },
+    {
+        "Threat Actor": "BadRory",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BAMBOO SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BANISHED KITTEN",
+        "Aliases": "DUNE, Storm-0842"
+    },
+    {
+        "Threat Actor": "BazarCall",
+        "Aliases": "BazzarCall, BazaCall"
+    },
+    {
+        "Threat Actor": "Beijing Group",
+        "Aliases": "SNEAKY PANDA, Elderwood, Elderwood Gang, SIG22, G0066"
+    },
+    {
+        "Threat Actor": "BelialDemon",
+        "Aliases": "Matanbuchus"
+    },
+    {
+        "Threat Actor": "BiBiGun",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Bignosa",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BIG PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BITWISE SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Blackatom",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Blackgear",
+        "Aliases": "Topgear, Comnie, BLACKGEAR"
+    },
+    {
+        "Threat Actor": "BlackJack",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BlackOasis",
+        "Aliases": "G0063"
+    },
+    {
+        "Threat Actor": "Blacktail",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BladeHawk",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BlueBottle",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BlueHornet",
+        "Aliases": "APT49, AgainstTheWest"
+    },
+    {
+        "Threat Actor": "Blue Termite",
+        "Aliases": "Cloudy Omega, Emdivi"
+    },
+    {
+        "Threat Actor": "Blue Tsunami",
+        "Aliases": "Black Cube"
+    },
+    {
+        "Threat Actor": "Bohrium",
+        "Aliases": "Smoke Sandstorm, BOHRIUM"
+    },
+    {
+        "Threat Actor": "Bondnet",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Boolka",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BOSON SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BOSS SPIDER",
+        "Aliases": "GOLD LOWELL"
+    },
+    {
+        "Threat Actor": "Boulder Bear",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BRONZE EDGEWOOD",
+        "Aliases": "Red Hariasa"
+    },
+    {
+        "Threat Actor": "BRONZE HIGHLAND",
+        "Aliases": "Evasive Panda,  Daggerfly"
+    },
+    {
+        "Threat Actor": "BRONZE SPIRAL",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "BRONZE SPRING",
+        "Aliases": "UNC302"
+    },
+    {
+        "Threat Actor": "BRONZE STARLIGHT",
+        "Aliases": "SLIME34, DEV-0401, Cinnamon Tempest, Emperor Dragonfly"
+    },
+    {
+        "Threat Actor": "BRONZE VAPOR",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Budminer",
+        "Aliases": "Budminer cyberespionage group"
+    },
+    {
+        "Threat Actor": "Cadelle",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Caliente Bandits",
+        "Aliases": "TA2721"
+    },
+    {
+        "Threat Actor": "Callisto",
+        "Aliases": "COLDRIVER, SEABORGIUM, TA446, GOSSAMER BEAR, BlueCharlie, Star Blizzard, Reuse Team"
+    },
+    {
+        "Threat Actor": "Calypso",
+        "Aliases": "BRONZE MEDLEY"
+    },
+    {
+        "Threat Actor": "Camaro Dragon",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Caracal Kitten",
+        "Aliases": "APT-Q-58"
+    },
+    {
+        "Threat Actor": "Caramel Tsunami",
+        "Aliases": "SOURGUM, Candiru"
+    },
+    {
+        "Threat Actor": "Carderbee",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CardinalLizard",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Careto",
+        "Aliases": "The Mask, Mask, Ugly Face"
+    },
+    {
+        "Threat Actor": "Carmine Tsunami",
+        "Aliases": "DEV-0196, QuaDream"
+    },
+    {
+        "Threat Actor": "Chamelgang",
+        "Aliases": "CamoFei"
+    },
+    {
+        "Threat Actor": "Chernovite",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CiberInteligenciaSV",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CIRCUS SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CL-STA-0043",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Clever Kitten",
+        "Aliases": "Group 41"
+    },
+    {
+        "Threat Actor": "CLOCKWORK SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CloudSorcerer",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "COBALT JUNO",
+        "Aliases": "APT-C-38 (QiAnXin), SABER LION, TG-2884 (SCWX CTU)"
+    },
+    {
+        "Threat Actor": "COBALT KATANA",
+        "Aliases": "Hive0081 (IBM), SectorD01 (NHSC), xHunt campaign (Palo Alto), Hunter Serpens"
+    },
+    {
+        "Threat Actor": "Cold River",
+        "Aliases": "Nahr Elbard, Nahr el bared"
+    },
+    {
+        "Threat Actor": "Common Raven",
+        "Aliases": "OPERA1ER, NXSMS, DESKTOP-GROUP"
+    },
+    {
+        "Threat Actor": "Confucious",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Copy-Paste",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CoralRaider",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Corsair Jackal",
+        "Aliases": "TunisianCyberArmy"
+    },
+    {
+        "Threat Actor": "Cosmic Lynx",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "CostaRicto",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Cotton Sandstorm",
+        "Aliases": "Emennet Pasargad, Holy Souls, MARNANBRIDGE, NEPTUNIUM"
+    },
+    {
+        "Threat Actor": "CRYSTALRAY",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Cuboid Sandstorm",
+        "Aliases": "DEV-0228"
+    },
+    {
+        "Threat Actor": "Curious Gorge",
+        "Aliases": "UNC3742"
+    },
+    {
+        "Threat Actor": "Cutting Kitten",
+        "Aliases": "ITsecTeam"
+    },
+    {
+        "Threat Actor": "Cyber.Anarchy.Squad",
+        "Aliases": "Cyber Anarchy Squad"
+    },
+    {
+        "Threat Actor": "CyberNiggers",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Cyber Army of Russia Reborn",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Cyber Av3ngers",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Cyber Berkut",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Cyber Caliphate Army",
+        "Aliases": "Islamic State Hacking Division, CCA, United Cyber Caliphate, UUC, CyberCaliphate"
+    },
+    {
+        "Threat Actor": "Cyber fighters of Izz Ad-Din Al Qassam",
+        "Aliases": "Fraternal Jackal"
+    },
+    {
+        "Threat Actor": "Cyber Partisans",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Cyber Toufan",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Daixin Team",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Dalbit",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Dancing Salome",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DangerousSavanna",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DarkCasino",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DarkVishnya",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Dark Basin",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Deadeye Jackal",
+        "Aliases": "SyrianElectronicArmy, SEA"
+    },
+    {
+        "Threat Actor": "DefrayX",
+        "Aliases": "Hive0091"
+    },
+    {
+        "Threat Actor": "Denim Tsunami",
+        "Aliases": "KNOTWEED, DSIRF"
+    },
+    {
+        "Threat Actor": "Desorden Group",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DEV-0147",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DEV-0270",
+        "Aliases": "Nemesis Kitten, Storm-0270"
+    },
+    {
+        "Threat Actor": "DEV-0569",
+        "Aliases": "Storm-0569"
+    },
+    {
+        "Threat Actor": "DEV-0586",
+        "Aliases": "Ruinous Ursa, Cadet Blizzard"
+    },
+    {
+        "Threat Actor": "DEV-0928",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DEV-0950",
+        "Aliases": "Lace Tempest"
+    },
+    {
+        "Threat Actor": "DEV-1028",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DEXTOROUS SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DiceyF",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DIZZY PANDA",
+        "Aliases": "LadyBoyle"
+    },
+    {
+        "Threat Actor": "Dragonbridge",
+        "Aliases": "Spamouflage Dragon"
+    },
+    {
+        "Threat Actor": "DragonForce",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DragonSpark",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DriftingCloud",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DUNGEON SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "DustSquad",
+        "Aliases": "Nomadic Octopus"
+    },
+    {
+        "Threat Actor": "Earth Freybug",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Earth Kapre",
+        "Aliases": "RedCurl, Red Wolf"
+    },
+    {
+        "Threat Actor": "Earth Kitsune",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Earth Krahang",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Earth Longzhi",
+        "Aliases": "SnakeCharmer"
+    },
+    {
+        "Threat Actor": "Earth Wendigo",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Earth Yako",
+        "Aliases": "Operation RestyLink, Enelink"
+    },
+    {
+        "Threat Actor": "Edalat-e Ali",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ELECTRIC PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ELOQUENT PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ENERGETIC BEAR",
+        "Aliases": "BERSERK BEAR, ALLANITE, CASTLE, DYMALLOY, TG-4192, Dragonfly, Crouching Yeti, Group 24, Havex, Koala Team, IRON LIBERTY, G0035, ATK6, ITG15, BROMINE, Blue Kraken, Ghost Blizzard"
+    },
+    {
+        "Threat Actor": "Evasive Panda",
+        "Aliases": "BRONZE HIGHLAND"
+    },
+    {
+        "Threat Actor": "EvilPost",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "EvilTraffic",
+        "Aliases": "Operation EvilTraffic"
+    },
+    {
+        "Threat Actor": "FASTCash",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Ferocious Kitten",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "FIN1",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "FIN10",
+        "Aliases": "G0051"
+    },
+    {
+        "Threat Actor": "FIN13",
+        "Aliases": "TG2003, Elephant Beetle"
+    },
+    {
+        "Threat Actor": "FIN5",
+        "Aliases": "G0053"
+    },
+    {
+        "Threat Actor": "Fishing Elephant",
+        "Aliases": "Outrider Tiger"
+    },
+    {
+        "Threat Actor": "Flash Kitten",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Flax Typhoon",
+        "Aliases": "Ethereal Panda, Storm-0919"
+    },
+    {
+        "Threat Actor": "FlyingYeti",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Flying Kitten",
+        "Aliases": "SaffronRose, Saffron Rose, AjaxSecurityTeam, Ajax Security Team, Group 26, Sayad"
+    },
+    {
+        "Threat Actor": "FOXY PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Fox Kitten",
+        "Aliases": "PIONEER KITTEN, PARISITE, UNC757, Lemon Sandstorm, RUBIDIUM, PioneerKitten"
+    },
+    {
+        "Threat Actor": "FusionCore",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Fxmsp",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Gallmaker",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GambleForce",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GC01",
+        "Aliases": "Golden Chickens, Golden Chickens01, Golden Chickens 01"
+    },
+    {
+        "Threat Actor": "GC02",
+        "Aliases": "Golden Chickens, Golden Chickens02, Golden Chickens 02"
+    },
+    {
+        "Threat Actor": "GCMAN",
+        "Aliases": "G0036"
+    },
+    {
+        "Threat Actor": "GhostEmperor",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GhostNet",
+        "Aliases": "Snooping Dragon"
+    },
+    {
+        "Threat Actor": "GhostR",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GhostSec",
+        "Aliases": "Ghost Security"
+    },
+    {
+        "Threat Actor": "Ghost Jackal",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GIBBERISH PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Gitloker",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Gnosticplayers",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOBLIN PANDA",
+        "Aliases": "Conimes, Cycldek"
+    },
+    {
+        "Threat Actor": "GoldenJackal",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GoldFactory",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD BURLAP",
+        "Aliases": "CYBORG SPIDER"
+    },
+    {
+        "Threat Actor": "GOLD EVERGREEN",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD FAIRFAX",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD FLANDERS",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD GALLEON",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD GARDEN",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD MANSARD",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD NORTHFIELD",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD RIVERVIEW",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD SKYLINE",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD SOUTHFIELD",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD SYMPHONY",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GOLD WATERFALL",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GozNym",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Grayling",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Gray Sandstorm",
+        "Aliases": "DEV-0343"
+    },
+    {
+        "Threat Actor": "GREF",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Group5",
+        "Aliases": "G0043"
+    },
+    {
+        "Threat Actor": "Guacamaya",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "GURU SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Hagga",
+        "Aliases": "Aggah, TH-157"
+    },
+    {
+        "Threat Actor": "HellHounds",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Hezb",
+        "Aliases": "Mimo"
+    },
+    {
+        "Threat Actor": "HiddenArt",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "HomeLand Justice",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Honeybee",
+        "Aliases": "G0072"
+    },
+    {
+        "Threat Actor": "HookAds",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "HOUND SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "HummingBad",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Hunt3r Kill3rs",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "HURRICANE PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "IMPERSONATING PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "IndigoZebra",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "IntelBroker",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "InvisiMole",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "IronHusky",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ItaDuke",
+        "Aliases": "DarkUniverse, SIG27"
+    },
+    {
+        "Threat Actor": "JuiceLedger",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Karakurt",
+        "Aliases": "Karakurt Lair"
+    },
+    {
+        "Threat Actor": "Karkadann",
+        "Aliases": "Piwiks"
+    },
+    {
+        "Threat Actor": "Kasablanka",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "KAX17",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Keksec",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "KelvinSecurity",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Killnet",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Kinsing",
+        "Aliases": "Money Libra"
+    },
+    {
+        "Threat Actor": "Kiss-a-Dog",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "KromSec",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "LabHost",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Lancefly",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "LAPSUS",
+        "Aliases": "LAPSUS$, DEV-0537, SLIPPY SPIDER, Strawberry Tempest"
+    },
+    {
+        "Threat Actor": "Libyan Scorpions",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Lifting Zmiy",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "LilacSquid",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Lilac Typhoon",
+        "Aliases": "DEV-0234"
+    },
+    {
+        "Threat Actor": "LofyGang",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "LUNAR SPIDER",
+        "Aliases": "GOLD SWATHMORE"
+    },
+    {
+        "Threat Actor": "luoxk",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Madi",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Magic Kitten",
+        "Aliases": "Group 42, VOYEUR"
+    },
+    {
+        "Threat Actor": "MAGNETIC SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "MalKamak",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "MALLARD SPIDER",
+        "Aliases": "GOLD LAGOON"
+    },
+    {
+        "Threat Actor": "Malteiro",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Mana Team",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Markopolo",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Metador",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "MIMIC SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Mirage Tiger",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ModifiedElephant",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Mogilevich",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "MoneyTaker",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Moshen Dragon",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Moskalvzapoe",
+        "Aliases": "MAN1, TA511"
+    },
+    {
+        "Threat Actor": "MurenShark",
+        "Aliases": "Actor210426"
+    },
+    {
+        "Threat Actor": "Mustard Tempest",
+        "Aliases": "DEV-0206, Purple Vallhund"
+    },
+    {
+        "Threat Actor": "N4ughtysecTU",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "NB65",
+        "Aliases": "Network Battalion 65"
+    },
+    {
+        "Threat Actor": "NEODYMIUM",
+        "Aliases": "G0055"
+    },
+    {
+        "Threat Actor": "NewsPenguin",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Night Dragon",
+        "Aliases": "G0014"
+    },
+    {
+        "Threat Actor": "Nitro",
+        "Aliases": "Covert Grove"
+    },
+    {
+        "Threat Actor": "NOCTURNAL SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "NOMAD PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "NOTROBIN",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Nullbulge",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "OilAlpha",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "OldGremlin",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "OnionDog",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Opal Sleet",
+        "Aliases": "OSMIUM, Konni, Vedalia"
+    },
+    {
+        "Threat Actor": "Operation BugDrop",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Comando",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Emmental",
+        "Aliases": "Retefe Gang, Retefe Group"
+    },
+    {
+        "Threat Actor": "Operation Ghoul",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Kabar Cobra",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Parliament",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Poison Needles",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Red Signature",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Shadow Force",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Triangulation",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation WizardOpium",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Operation Wocao",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "OurMine",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "OUTLAW SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "OVERLORD SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "PALE PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "PARINACOTA",
+        "Aliases": "Wine Tempest, Wadhrama"
+    },
+    {
+        "Threat Actor": "PassCV",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Pearl Sleet",
+        "Aliases": "DEV-0215, LAWRENCIUM"
+    },
+    {
+        "Threat Actor": "People's Cyber Army of Russia",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "PerSwaysion",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "PhantomControl",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "PhantomCore",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Phlox Tempest",
+        "Aliases": "DEV-0796"
+    },
+    {
+        "Threat Actor": "Pickaxe",
+        "Aliases": "Prying Libra"
+    },
+    {
+        "Threat Actor": "PINCHY SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Pink Sandstorm",
+        "Aliases": "AMERICIUM, BlackShadow, DEV-0022, Agrius, Agonizing Serpens"
+    },
+    {
+        "Threat Actor": "PIZZO SPIDER",
+        "Aliases": "DD4BC, Ambiorx"
+    },
+    {
+        "Threat Actor": "POISONUS PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Predatory Sparrow",
+        "Aliases": "Indra, Gonjeshke Darande"
+    },
+    {
+        "Threat Actor": "PREDATOR PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ProCC",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Prolific Puma",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Prophet Spider",
+        "Aliases": "GOLD MELODY, UNC961"
+    },
+    {
+        "Threat Actor": "R00tK1T",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RADIO PANDA",
+        "Aliases": "Shrouded Crossbow"
+    },
+    {
+        "Threat Actor": "RansomHouse",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RansomHub",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RansomVC",
+        "Aliases": "Ransomed.vc"
+    },
+    {
+        "Threat Actor": "Raspberry Typhoon",
+        "Aliases": "RADIUM"
+    },
+    {
+        "Threat Actor": "RASPITE",
+        "Aliases": "LeafMiner, Raspite"
+    },
+    {
+        "Threat Actor": "RATPAK SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Red-Lili",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RedAlpha",
+        "Aliases": "DeepCliff, Red Dev 3"
+    },
+    {
+        "Threat Actor": "RedDelta",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RedEcho",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Redfly",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RedGolf",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RedJuliett",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RedStinger",
+        "Aliases": "Bad Magic"
+    },
+    {
+        "Threat Actor": "Red Charon",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Red Dev 17",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Red Nue",
+        "Aliases": "LuoYu"
+    },
+    {
+        "Threat Actor": "REF2924",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "REF5961",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ResumeLooters",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Returned Libra",
+        "Aliases": "8220 Mining Group"
+    },
+    {
+        "Threat Actor": "RevengeHotels",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "RGB-TEAM",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Roaming Mantis",
+        "Aliases": "Roaming Mantis Group"
+    },
+    {
+        "Threat Actor": "Roaming Tiger",
+        "Aliases": "BRONZE WOODLAND, Rotten Tomato"
+    },
+    {
+        "Threat Actor": "RomCom",
+        "Aliases": "Storm-0978"
+    },
+    {
+        "Threat Actor": "RTM",
+        "Aliases": "G0048"
+    },
+    {
+        "Threat Actor": "RUBYCARP",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Ruby Sleet",
+        "Aliases": "CERIUM"
+    },
+    {
+        "Threat Actor": "Saad Tycoon",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SABRE PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SALTY SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SAMURAI PANDA",
+        "Aliases": "PLA Navy, Wisp Team"
+    },
+    {
+        "Threat Actor": "SandCat",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Sandman APT",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Sands Casino",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Sath-\u0131 M\u00fcdafaa",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ScamClub",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Scarab",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SCARLETEEL",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Scarred Manticore",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Scattered Canary",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Scattered Spider",
+        "Aliases": "UNC3944, Muddled Libra, Oktapus, Scattered Swine, Scatter Swine, Octo Tempest, 0ktapus, Storm-0971, DEV-0971, Starfraud"
+    },
+    {
+        "Threat Actor": "SEXi",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ShadowSyndicate",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Shadow Network",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ShaggyPanther",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SHARK SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SharpPanda",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ShinyHunters",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ShroudedSnooper",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SiegedSec",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Siesta",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Silent Librarian",
+        "Aliases": "COBALT DICKENS, Mabna Institute, TA407, TA4900, Yellow Nabu"
+    },
+    {
+        "Threat Actor": "SilitNetwork",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SilverFish",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SilverTerrier",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Sima",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SINGING SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SingularityMD",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Slingshot",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Smishing Triad",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SmugX",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Snake Wine",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SneakyChef",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Solntsepek",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Sp1d3r",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SparklingGoblin",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SPICY PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "SPIKEDWINE",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "STARDUST CHOLLIMA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Stargazer Goblin",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Starry Addax",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Stealth Falcon",
+        "Aliases": "FruityArmor, G0038"
+    },
+    {
+        "Threat Actor": "Storm-0062",
+        "Aliases": "Oro0lxy, DarkShadow"
+    },
+    {
+        "Threat Actor": "Storm-0324",
+        "Aliases": "DEV-0324, Sagrid, TA543"
+    },
+    {
+        "Threat Actor": "Storm-0381",
+        "Aliases": "DEV-0381"
+    },
+    {
+        "Threat Actor": "Storm-0530",
+        "Aliases": "DEV-0530, H0lyGh0st"
+    },
+    {
+        "Threat Actor": "Storm-0539",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-0558",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-0829",
+        "Aliases": "DEV-0829, Nwgen Team"
+    },
+    {
+        "Threat Actor": "Storm-0835",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-0867",
+        "Aliases": "DEV-0867"
+    },
+    {
+        "Threat Actor": "Storm-1044",
+        "Aliases": "DEV-1044"
+    },
+    {
+        "Threat Actor": "Storm-1084",
+        "Aliases": "DEV-1084"
+    },
+    {
+        "Threat Actor": "Storm-1099",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1101",
+        "Aliases": "DEV-1101"
+    },
+    {
+        "Threat Actor": "Storm-1133",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1152",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1167",
+        "Aliases": "DEV-1167"
+    },
+    {
+        "Threat Actor": "Storm-1283",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1286",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1295",
+        "Aliases": "DEV-1295"
+    },
+    {
+        "Threat Actor": "Storm-1567",
+        "Aliases": "Akira"
+    },
+    {
+        "Threat Actor": "Storm-1575",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1674",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Storm-1849",
+        "Aliases": "UAT4356"
+    },
+    {
+        "Threat Actor": "Storm Cloud",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "StucxTeam",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Sunglow Blizzard",
+        "Aliases": "DEV-0665"
+    },
+    {
+        "Threat Actor": "TA2536",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA2541",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA2552",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA2719",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA2722",
+        "Aliases": "Balikbayan Foxes"
+    },
+    {
+        "Threat Actor": "TA2725",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA402",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA406",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA444",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA453",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA459",
+        "Aliases": "G0062"
+    },
+    {
+        "Threat Actor": "TA482",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA499",
+        "Aliases": "Vovan, Lexus"
+    },
+    {
+        "Threat Actor": "TA516",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA530",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA547",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA554",
+        "Aliases": "TH-163"
+    },
+    {
+        "Threat Actor": "TA555",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA558",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA570",
+        "Aliases": "DEV-0450"
+    },
+    {
+        "Threat Actor": "TA571",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA575",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA577",
+        "Aliases": "Hive0118"
+    },
+    {
+        "Threat Actor": "TA800",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TA866",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TAG-28",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TAG-53",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TAG-56",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Taidoor",
+        "Aliases": "G0015, Earth Aughisky"
+    },
+    {
+        "Threat Actor": "Team-Xecuter",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TeamSpy Crew",
+        "Aliases": "TeamSpy, Team Bear, Anger Bear, IRON LYRIC"
+    },
+    {
+        "Threat Actor": "TeamTNT",
+        "Aliases": "Adept Libra"
+    },
+    {
+        "Threat Actor": "TEMP.Hermit",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TEMP.Veles",
+        "Aliases": "Xenotime, G0088, ATK91"
+    },
+    {
+        "Threat Actor": "TEMPER PANDA",
+        "Aliases": "Admin338, Team338, MAGNESIUM, admin@338, G0018"
+    },
+    {
+        "Threat Actor": "TempTick",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TEMP_Heretic",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TERBIUM",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TEST PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TetrisPhantom",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TheDarkOverlord",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "The Big Bang",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "The Shadow Brokers",
+        "Aliases": "The ShadowBrokers, TSB, Shadow Brokers, ShadowBrokers"
+    },
+    {
+        "Threat Actor": "Threatsec",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Threat Actor 888",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TiltedTemple",
+        "Aliases": "DEV-0322, Circle Typhoon"
+    },
+    {
+        "Threat Actor": "TINY SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ToddyCat",
+        "Aliases": "Websiic"
+    },
+    {
+        "Threat Actor": "Tomiris",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TOXIC PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TRACER KITTEN",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TraderTraitor",
+        "Aliases": "Jade Sleet, UNC4899, Pukchong"
+    },
+    {
+        "Threat Actor": "TRAVELING SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TunnelSnake",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "TurkHackTeam",
+        "Aliases": "Turk Hack Team"
+    },
+    {
+        "Threat Actor": "TwoSail Junk",
+        "Aliases": "Operation Poisoned News"
+    },
+    {
+        "Threat Actor": "UAC-0006",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UAC-0020",
+        "Aliases": "Vermin, SickSync"
+    },
+    {
+        "Threat Actor": "UAC-0063",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UAC-0094",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UAC-0099",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UAC-0102",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UAC-0118",
+        "Aliases": "FRwL, FromRussiaWithLove"
+    },
+    {
+        "Threat Actor": "UAC-0149",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UAC-0184",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC1549",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC215",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC2447",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC2565",
+        "Aliases": "Hive0127"
+    },
+    {
+        "Threat Actor": "UNC2630",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC2659",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC2717",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC3524",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC3569",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC3886",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC3890",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC4191",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC4736",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC4841",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC4990",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC5174",
+        "Aliases": "Uteus"
+    },
+    {
+        "Threat Actor": "UNC5266",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC5291",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC5325",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC5330",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC5337",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNC5537",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Unfading Sea Haze",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNION PANDA",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UNION SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Unnamed Actor",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Urpage",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "USDoD",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UserSec",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UTA0178",
+        "Aliases": "UNC5221, Red Dev 61"
+    },
+    {
+        "Threat Actor": "UTA0218",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "UTG-Q-008",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Vanilla Tempest",
+        "Aliases": "DEV-0832, Vice Society"
+    },
+    {
+        "Threat Actor": "Velvet Tempest",
+        "Aliases": "DEV-0504"
+    },
+    {
+        "Threat Actor": "ViceLeaker",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Vicious Panda",
+        "Aliases": "SixLittleMonkeys"
+    },
+    {
+        "Threat Actor": "Viking Jackal",
+        "Aliases": "Vikingdom"
+    },
+    {
+        "Threat Actor": "VIKING SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Void Arachne",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Void Balaur",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Void Banshee",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Void Manticore",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Void Rabisu",
+        "Aliases": "Tropical Scorpius"
+    },
+    {
+        "Threat Actor": "Volatile Cedar",
+        "Aliases": "Lebanese Cedar, DeftTorero"
+    },
+    {
+        "Threat Actor": "VulzSecTeam",
+        "Aliases": "VulzSec"
+    },
+    {
+        "Threat Actor": "Watchdog",
+        "Aliases": "Thief Libra"
+    },
+    {
+        "Threat Actor": "Water Curupira",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Water Labbu",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Water Orthrus",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Water Sigbin",
+        "Aliases": "8220 Gang"
+    },
+    {
+        "Threat Actor": "Webworm",
+        "Aliases": "Space Pirates"
+    },
+    {
+        "Threat Actor": "WeedSec",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "WeRedEvils",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Whitefly",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "White Bear",
+        "Aliases": "Skipper Turla"
+    },
+    {
+        "Threat Actor": "WildCard",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "WildPressure",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "WIP19",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "WIRTE",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Witchetty",
+        "Aliases": "LookingFrog"
+    },
+    {
+        "Threat Actor": "WOLF SPIDER",
+        "Aliases": "FIN4, G0085"
+    },
+    {
+        "Threat Actor": "Worok",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "XakNet",
+        "Aliases": "UAC-0100, UAC-0106"
+    },
+    {
+        "Threat Actor": "XDSpy",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Xiaoqiying",
+        "Aliases": "Genesis Day, Teng Snake"
+    },
+    {
+        "Threat Actor": "YoroTrooper",
+        "Aliases": "Salted Earth, Sturgeon Fisher"
+    },
+    {
+        "Threat Actor": "Zarya",
+        "Aliases": "UAC-0109"
+    },
+    {
+        "Threat Actor": "ZOMBIE SPIDER",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "ZooPark",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "[Vault 7/8]",
+        "Aliases": null
+    },
+    {
+        "Threat Actor": "Stealth Mango and Tangelo",
+        "Aliases": null
+    }
+]
